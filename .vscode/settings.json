@@ -1,0 +1,8 @@
+{
+    "vscode-pets.throwBallWithMouse": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    },
+    "workbench.editor.closeOnFileDelete": true,
+    "editor.cursorSmoothCaretAnimation": "on"
+}
