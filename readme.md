@@ -9,9 +9,10 @@ _this is italic text_
 This is a table. 
 
 | Name |  Age | 
-----------------
+|------|------|
 | Noyon | 44 |
-----------------
+|-------|----|
+
 
 Unorder List : 
 - Hasan
